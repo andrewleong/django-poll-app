@@ -1,5 +1,3 @@
-##### To build a polling app to practice my python django knowledge
-
 ### <u>Django useful commands</u>
 #### Activate virtualenv
 ```pipenv shell```
